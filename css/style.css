@@ -6,3 +6,12 @@
     --light: #998e82;
     --orange: #f9ad93;
 }
+
+html {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+body {
+    background-color: var(--baige);
+}
